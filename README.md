@@ -43,6 +43,12 @@ Allows users to dynamically filter data by time period, brand, model, city, and 
 
  💡 Business Impact & Insights : 
 
- This dashboard enables stakeholders to gain complete visibility into mobile sales performance across time, geography, products, and customer behavior. By identifying top-performing cities, brands, and models, the business can optimize inventory planning and focus sales efforts on high-demand products. The comparison with previous periods helps detect growth trends, seasonal patterns, and performance gaps early. Insights into payment preferences and customer ratings support improved customer experience strategies, while the centralized reporting significantly reduces manual effort and enables faster, data-driven decision-making.
+ This dashboard enables stakeholders to gain complete visibility into mobile sales performance across time, geography, products, and customer behavior. By identifying top-performing cities, brands, and models, the business can optimize inventory planning and focus sales efforts on high-demand products. The comparison with previous periods helps detect growth trends, seasonal patterns, and performance gaps early. Insights into payment preferences and customer ratings support improved customer experience strategies, while the centralized reporting significantly reduces manual effort and enables faster, data-driven decision-making.  
 
+ 
+https://github.com/RuttujaM/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png  
+
+https://github.com/RuttujaM/Mobile-Sales-Dashboard/blob/main/QTD_Report.png  
+
+https://github.com/RuttujaM/Mobile-Sales-Dashboard/blob/main/MTD_Report.png  
 
